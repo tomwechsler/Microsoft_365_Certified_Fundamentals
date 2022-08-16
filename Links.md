@@ -5,7 +5,7 @@ https://docs.microsoft.com/en-us/certifications/microsoft-365-fundamentals/
 
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVw
 
-**Sample Questions**
+**Sample Questions**  
 https://docs.microsoft.com/en-us/certifications/resources/ms-900-sample-questions?azure-portal=true
 
 Microsoft Learn:
