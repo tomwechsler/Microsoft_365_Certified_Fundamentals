@@ -1,4 +1,4 @@
-Microsoft Certified: Power Platform Fundamentals (PL-900)!
+Microsoft 365 Certified: Fundamentals (MS-900)!
 -----------------
 
 https://docs.microsoft.com/en-us/certifications/microsoft-365-fundamentals/
