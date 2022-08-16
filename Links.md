@@ -19,3 +19,11 @@ https://docs.microsoft.com/en-us/learn/paths/m365-licensing-service-support/
 
 More helpful information directly from Microsoft, divided into the functional groups (Skills measured)!
 -------------------
+
+**Describe cloud concepts**
+
+**Describe core Microsoft 365 services and concepts**
+
+**Describe security, compliance, privacy, and trust in Microsoft 365**
+
+**Describe Microsoft 365 pricing and support**
