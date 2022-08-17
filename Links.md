@@ -42,6 +42,18 @@ https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/motivat
 
 **Describe core Microsoft 365 services and concepts**
 
+https://docs.microsoft.com/en-us/microsoft-365/admin/admin-overview/admin-center-overview
+
+https://support.microsoft.com/en-us/office/get-started-at-office-com-91a4ec74-67fe-4a84-a268-f6bdf3da1804
+
+https://docs.microsoft.com/en-us/windows/deployment/update/waas-overview
+
+https://docs.microsoft.com/en-au/windows/deployment/update/waas-quick-start
+
+https://docs.microsoft.com/en-au/windows/deployment/update/get-started-updates-channels-tools
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/overview
+
 **Describe security, compliance, privacy, and trust in Microsoft 365**
 
 **Describe Microsoft 365 pricing and support**
