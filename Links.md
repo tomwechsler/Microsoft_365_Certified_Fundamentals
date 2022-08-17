@@ -22,6 +22,24 @@ More helpful information directly from Microsoft, divided into the functional gr
 
 **Describe cloud concepts**
 
+https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-iaas/
+
+https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-paas/
+
+https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-saas/
+
+https://docs.microsoft.com/en-us/microsoft-365/enterprise/azure-integration?WT.mc_id=M365-MVP-5000399&view=o365-worldwide
+
+https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-a-public-cloud/
+
+https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-a-private-cloud/
+
+https://azure.microsoft.com/en-ca/resources/cloud-computing-dictionary/what-is-hybrid-cloud-computing/
+
+https://azure.microsoft.com/en-us/pricing/tco/calculator
+
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/motivations
+
 **Describe core Microsoft 365 services and concepts**
 
 **Describe security, compliance, privacy, and trust in Microsoft 365**
