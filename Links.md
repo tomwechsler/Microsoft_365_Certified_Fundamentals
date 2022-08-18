@@ -91,3 +91,13 @@ https://docs.microsoft.com/en-us/microsoft-365/compliance/data-classification-ov
 https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels
 
 **Describe Microsoft 365 pricing and support**
+
+https://azure.microsoft.com/en-us/pricing/details/active-directory/
+
+https://azure.microsoft.com/en-us/support/legal/sla/
+
+https://docs.microsoft.com/en-us/microsoft-365/admin/m365-feature-descriptions
+
+https://docs.microsoft.com/en-us/microsoft-365/enterprise/view-service-health
+
+https://m365maps.com/
