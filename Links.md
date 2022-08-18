@@ -56,4 +56,38 @@ https://docs.microsoft.com/en-us/azure/virtual-desktop/overview
 
 **Describe security, compliance, privacy, and trust in Microsoft 365**
 
+https://www.microsoft.com/en-us/security/business/zero-trust
+
+https://www.microsoft.com/videoplayer/embed/RE4J3ms
+
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-hybrid-identity
+
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks
+
+https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview
+
+https://docs.microsoft.com/en-us/defender-cloud-apps/what-is-defender-for-cloud-apps
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/get-started-with-service-trust-portal
+
+https://www.microsoft.com/en-us/trust-center
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-score-calculation
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/insider-risk-solution-overview
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/ediscovery
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/search-for-content
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/get-started-core-ediscovery
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/overview-ediscovery-20
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/secure-score-security-controls
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/data-classification-overview
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels
+
 **Describe Microsoft 365 pricing and support**
